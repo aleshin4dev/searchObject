@@ -5,7 +5,7 @@
 # ===============================================
 # ==  Main directories  =========================
 export ROOT_DIR=$(pwd)
-export BUILD_DIR=${ROOT_DIR}/build
+export BUILD_DIR=${ROOT_DIR}/
 export INSTALL_DIR=${ROOT_DIR}/install
 export OPENCV_ROOT_DIR=/OpenCV/opencv
 # ===============================================
