@@ -57,7 +57,7 @@ CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o
  /OpenCV/opencv/modules/videoio/include/opencv2/videoio.hpp
  /OpenCV/opencv/modules/videoio/include/opencv2/videoio/videoio_c.h
  /OpenCV/opencv/opencv2/opencv_modules.hpp
- /home/aleshin8sergey/Workspace/Coursework/My_Alg/IntImg.cpp
+ /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.cpp
 CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o
  /OpenCV/opencv/include/opencv/cv.h
  /OpenCV/opencv/include/opencv/cv.hpp
@@ -114,11 +114,11 @@ CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o
  /OpenCV/opencv/modules/videoio/include/opencv2/videoio.hpp
  /OpenCV/opencv/modules/videoio/include/opencv2/videoio/videoio_c.h
  /OpenCV/opencv/opencv2/opencv_modules.hpp
- /home/aleshin8sergey/Workspace/Coursework/My_Alg/SameScale.cpp
+ /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.cpp
 CMakeFiles/My_VJ_alg.dir/haar.cpp.o
- /home/aleshin8sergey/Workspace/Coursework/My_Alg/haar.cpp
+ /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.cpp
 CMakeFiles/My_VJ_alg.dir/workProt.cpp.o
- /home/aleshin8sergey/Workspace/Coursework/My_Alg/IntImg.h
- /home/aleshin8sergey/Workspace/Coursework/My_Alg/SameScale.h
- /home/aleshin8sergey/Workspace/Coursework/My_Alg/haar.h
- /home/aleshin8sergey/Workspace/Coursework/My_Alg/workProt.cpp
+ /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.h
+ /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.h
+ /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.h
+ /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/workProt.cpp

@@ -496,35 +496,35 @@ opencv2/core/core_c.h
 
 /OpenCV/opencv/opencv2/opencv_modules.hpp
 
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/IntImg.cpp
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.cpp
 stdio.h
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/stdio.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/stdio.h
 iostream
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/iostream
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/iostream
 fstream
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/fstream
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/fstream
 sstream
 -
 string
 -
 cstring
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/cstring
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/cstring
 vector
 -
 opencv/cv.hpp
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/opencv/cv.hpp
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/opencv/cv.hpp
 opencv/highgui.h
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/opencv/highgui.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/opencv/highgui.h
 
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/IntImg.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.h
 
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/SameScale.cpp
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.cpp
 iostream
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/iostream
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/iostream
 opencv/cv.hpp
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/opencv/cv.hpp
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/opencv/cv.hpp
 opencv/highgui.h
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/opencv/highgui.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/opencv/highgui.h
 sstream
 -
 string
@@ -532,45 +532,45 @@ string
 vector
 -
 
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/SameScale.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.h
 vector
 -
 string
 -
 
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/haar.cpp
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.cpp
 iostream
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/iostream
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/iostream
 vector
 -
 fstream
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/fstream
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/fstream
 sstream
 -
 string
 -
 
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/haar.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.h
 vector
 -
 string
 -
 
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/workProt.cpp
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/workProt.cpp
 iostream
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/iostream
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/iostream
 string
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/string
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/string
 fstream
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/fstream
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/fstream
 vector
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/vector
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/vector
 math.h
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/math.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/math.h
 SameScale.h
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/SameScale.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.h
 IntImg.h
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/IntImg.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.h
 haar.h
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/haar.h
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.h
 

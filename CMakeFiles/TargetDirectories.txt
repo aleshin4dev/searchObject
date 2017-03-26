@@ -1,7 +1,7 @@
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/CMakeFiles/install.dir
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/CMakeFiles/list_install_components.dir
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/CMakeFiles/rebuild_cache.dir
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/CMakeFiles/My_VJ_alg.dir
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/CMakeFiles/install/strip.dir
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/CMakeFiles/install/local.dir
-/home/aleshin8sergey/Workspace/Coursework/My_Alg/CMakeFiles/edit_cache.dir
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/install.dir
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/list_install_components.dir
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/rebuild_cache.dir
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/My_VJ_alg.dir
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/install/strip.dir
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/install/local.dir
+/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/edit_cache.dir

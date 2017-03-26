@@ -1,2 +1,2 @@
 #pragma once
-void integralImg();
+void integralImg(int);
