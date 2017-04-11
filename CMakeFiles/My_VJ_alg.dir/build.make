@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1
+CMAKE_SOURCE_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1
+CMAKE_BINARY_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2
 
 # Include any dependencies generated for this target.
 include CMakeFiles/My_VJ_alg.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/My_VJ_alg.dir/flags.make
 
 CMakeFiles/My_VJ_alg.dir/workProt.cpp.o: CMakeFiles/My_VJ_alg.dir/flags.make
 CMakeFiles/My_VJ_alg.dir/workProt.cpp.o: workProt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/My_VJ_alg.dir/workProt.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/My_VJ_alg.dir/workProt.cpp.o -c /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/workProt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/My_VJ_alg.dir/workProt.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/My_VJ_alg.dir/workProt.cpp.o -c /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/workProt.cpp
 
 CMakeFiles/My_VJ_alg.dir/workProt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/My_VJ_alg.dir/workProt.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/workProt.cpp > CMakeFiles/My_VJ_alg.dir/workProt.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/workProt.cpp > CMakeFiles/My_VJ_alg.dir/workProt.cpp.i
 
 CMakeFiles/My_VJ_alg.dir/workProt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/My_VJ_alg.dir/workProt.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/workProt.cpp -o CMakeFiles/My_VJ_alg.dir/workProt.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/workProt.cpp -o CMakeFiles/My_VJ_alg.dir/workProt.cpp.s
 
 CMakeFiles/My_VJ_alg.dir/workProt.cpp.o.requires:
 
@@ -81,66 +81,18 @@ CMakeFiles/My_VJ_alg.dir/workProt.cpp.o.provides: CMakeFiles/My_VJ_alg.dir/workP
 CMakeFiles/My_VJ_alg.dir/workProt.cpp.o.provides.build: CMakeFiles/My_VJ_alg.dir/workProt.cpp.o
 
 
-CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o: CMakeFiles/My_VJ_alg.dir/flags.make
-CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o: SameScale.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o -c /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.cpp
-
-CMakeFiles/My_VJ_alg.dir/SameScale.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/My_VJ_alg.dir/SameScale.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.cpp > CMakeFiles/My_VJ_alg.dir/SameScale.cpp.i
-
-CMakeFiles/My_VJ_alg.dir/SameScale.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/My_VJ_alg.dir/SameScale.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.cpp -o CMakeFiles/My_VJ_alg.dir/SameScale.cpp.s
-
-CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.requires:
-
-.PHONY : CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.requires
-
-CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.provides: CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.requires
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.provides.build
-.PHONY : CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.provides
-
-CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.provides.build: CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o
-
-
-CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o: CMakeFiles/My_VJ_alg.dir/flags.make
-CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o: IntImg.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o -c /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.cpp
-
-CMakeFiles/My_VJ_alg.dir/IntImg.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/My_VJ_alg.dir/IntImg.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.cpp > CMakeFiles/My_VJ_alg.dir/IntImg.cpp.i
-
-CMakeFiles/My_VJ_alg.dir/IntImg.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/My_VJ_alg.dir/IntImg.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.cpp -o CMakeFiles/My_VJ_alg.dir/IntImg.cpp.s
-
-CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.requires:
-
-.PHONY : CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.requires
-
-CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.provides: CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.requires
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.provides.build
-.PHONY : CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.provides
-
-CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.provides.build: CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o
-
-
 CMakeFiles/My_VJ_alg.dir/haar.cpp.o: CMakeFiles/My_VJ_alg.dir/flags.make
 CMakeFiles/My_VJ_alg.dir/haar.cpp.o: haar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/My_VJ_alg.dir/haar.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/My_VJ_alg.dir/haar.cpp.o -c /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/My_VJ_alg.dir/haar.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/My_VJ_alg.dir/haar.cpp.o -c /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/haar.cpp
 
 CMakeFiles/My_VJ_alg.dir/haar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/My_VJ_alg.dir/haar.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.cpp > CMakeFiles/My_VJ_alg.dir/haar.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/haar.cpp > CMakeFiles/My_VJ_alg.dir/haar.cpp.i
 
 CMakeFiles/My_VJ_alg.dir/haar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/My_VJ_alg.dir/haar.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.cpp -o CMakeFiles/My_VJ_alg.dir/haar.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/haar.cpp -o CMakeFiles/My_VJ_alg.dir/haar.cpp.s
 
 CMakeFiles/My_VJ_alg.dir/haar.cpp.o.requires:
 
@@ -156,16 +108,12 @@ CMakeFiles/My_VJ_alg.dir/haar.cpp.o.provides.build: CMakeFiles/My_VJ_alg.dir/haa
 # Object files for target My_VJ_alg
 My_VJ_alg_OBJECTS = \
 "CMakeFiles/My_VJ_alg.dir/workProt.cpp.o" \
-"CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o" \
-"CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o" \
 "CMakeFiles/My_VJ_alg.dir/haar.cpp.o"
 
 # External object files for target My_VJ_alg
 My_VJ_alg_EXTERNAL_OBJECTS =
 
 My_VJ_alg: CMakeFiles/My_VJ_alg.dir/workProt.cpp.o
-My_VJ_alg: CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o
-My_VJ_alg: CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o
 My_VJ_alg: CMakeFiles/My_VJ_alg.dir/haar.cpp.o
 My_VJ_alg: CMakeFiles/My_VJ_alg.dir/build.make
 My_VJ_alg: /OpenCV/opencv/lib/libopencv_videostab.so.3.1.0
@@ -185,7 +133,7 @@ My_VJ_alg: /OpenCV/opencv/lib/libopencv_video.so.3.1.0
 My_VJ_alg: /OpenCV/opencv/lib/libopencv_imgproc.so.3.1.0
 My_VJ_alg: /OpenCV/opencv/lib/libopencv_core.so.3.1.0
 My_VJ_alg: CMakeFiles/My_VJ_alg.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable My_VJ_alg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable My_VJ_alg"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/My_VJ_alg.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -194,8 +142,6 @@ CMakeFiles/My_VJ_alg.dir/build: My_VJ_alg
 .PHONY : CMakeFiles/My_VJ_alg.dir/build
 
 CMakeFiles/My_VJ_alg.dir/requires: CMakeFiles/My_VJ_alg.dir/workProt.cpp.o.requires
-CMakeFiles/My_VJ_alg.dir/requires: CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o.requires
-CMakeFiles/My_VJ_alg.dir/requires: CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o.requires
 CMakeFiles/My_VJ_alg.dir/requires: CMakeFiles/My_VJ_alg.dir/haar.cpp.o.requires
 
 .PHONY : CMakeFiles/My_VJ_alg.dir/requires
@@ -205,6 +151,6 @@ CMakeFiles/My_VJ_alg.dir/clean:
 .PHONY : CMakeFiles/My_VJ_alg.dir/clean
 
 CMakeFiles/My_VJ_alg.dir/depend:
-	cd /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/My_VJ_alg.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2 /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles/My_VJ_alg.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/My_VJ_alg.dir/depend
 

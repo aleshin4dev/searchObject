@@ -22,14 +22,10 @@ INCLUDE_DIRECTORIES(
 # Application source files
 SET(APP_SOURCES
      workProt.cpp
-     SameScale.cpp
-     IntImg.cpp
      haar.cpp
 )
 
-SET(APP_HEADERS
-     SameScale.h
-     IntImg.h     
+SET(APP_HEADERS     
      haar.h
 )
 

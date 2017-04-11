@@ -4,10 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/IntImg.cpp" "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o"
-  "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/SameScale.cpp" "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o"
-  "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/haar.cpp" "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/My_VJ_alg.dir/haar.cpp.o"
-  "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/workProt.cpp" "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/My_VJ_alg.dir/workProt.cpp.o"
+  "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/haar.cpp" "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles/My_VJ_alg.dir/haar.cpp.o"
+  "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/workProt.cpp" "/home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles/My_VJ_alg.dir/workProt.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

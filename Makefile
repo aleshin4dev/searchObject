@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1
+CMAKE_SOURCE_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1
+CMAKE_BINARY_DIR = /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -124,9 +124,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.1/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleshin8sergey/Workspace/Coursework/My_Alg_v1.2/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -166,60 +166,6 @@ My_VJ_alg: cmake_check_build_system
 My_VJ_alg/fast:
 	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/build
 .PHONY : My_VJ_alg/fast
-
-IntImg.o: IntImg.cpp.o
-
-.PHONY : IntImg.o
-
-# target to build an object file
-IntImg.cpp.o:
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/IntImg.cpp.o
-.PHONY : IntImg.cpp.o
-
-IntImg.i: IntImg.cpp.i
-
-.PHONY : IntImg.i
-
-# target to preprocess a source file
-IntImg.cpp.i:
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/IntImg.cpp.i
-.PHONY : IntImg.cpp.i
-
-IntImg.s: IntImg.cpp.s
-
-.PHONY : IntImg.s
-
-# target to generate assembly for a file
-IntImg.cpp.s:
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/IntImg.cpp.s
-.PHONY : IntImg.cpp.s
-
-SameScale.o: SameScale.cpp.o
-
-.PHONY : SameScale.o
-
-# target to build an object file
-SameScale.cpp.o:
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/SameScale.cpp.o
-.PHONY : SameScale.cpp.o
-
-SameScale.i: SameScale.cpp.i
-
-.PHONY : SameScale.i
-
-# target to preprocess a source file
-SameScale.cpp.i:
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/SameScale.cpp.i
-.PHONY : SameScale.cpp.i
-
-SameScale.s: SameScale.cpp.s
-
-.PHONY : SameScale.s
-
-# target to generate assembly for a file
-SameScale.cpp.s:
-	$(MAKE) -f CMakeFiles/My_VJ_alg.dir/build.make CMakeFiles/My_VJ_alg.dir/SameScale.cpp.s
-.PHONY : SameScale.cpp.s
 
 haar.o: haar.cpp.o
 
@@ -288,12 +234,6 @@ help:
 	@echo "... install/strip"
 	@echo "... install/local"
 	@echo "... edit_cache"
-	@echo "... IntImg.o"
-	@echo "... IntImg.i"
-	@echo "... IntImg.s"
-	@echo "... SameScale.o"
-	@echo "... SameScale.i"
-	@echo "... SameScale.s"
 	@echo "... haar.o"
 	@echo "... haar.i"
 	@echo "... haar.s"
